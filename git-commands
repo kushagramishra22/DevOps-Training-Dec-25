@@ -1,0 +1,90 @@
+ 3 echo "# DevOps-Training-Dec-25" >> README.md
+   4 ls
+   5 git init
+   6 git status
+   7 git add .
+   8 git status
+   9 git commit -m "first commit"
+  10 git status
+  11 git branch -M main
+  12 git branch
+  13 git remote -v
+  14 git remote add origin https://github.com/Msocial123/DevOps-Training-Dec-25.git
+  15 git remote -v
+  16 git push -u origin main
+  17 git status
+  18 git add index.html
+  19 git status
+  20 git reset index.html
+  21 git status
+  22 git add .
+  23 git status
+  24 git commit -m "added index.html file"
+  25 git status
+  26 git log
+  27 git revert 176dd3f85a70c23b520109d0a0c74b5dcdcced16
+  28 ls
+  29 git log
+  30 git revert 442ee7afbad7938391d98e38d7517794b050ddc1
+  31 ls
+  32 git status
+  33 git push
+  34 git status
+  35 git status
+  36 git add .
+  37 git status
+  38 git reset index.html
+  39 git status
+  40 git add .
+  41 git status
+  42 git commit -m "added 5 lines of code"
+  43 git log
+  44 git revert b254ce132ef1068fabd39191c0389e419e06ef9a
+  45 git log
+  46 git revert e36ba4bae2a6369a0a529b57c5b9b4eb567ad1e6
+  47 git push
+  48 git status
+  49 git add .
+  50 git status
+  51 git commit -m "added signup.html file"
+  52 git status
+  53 git push
+  54 git pull
+  55 git push
+  56 ls
+  57 bit branch
+  58 git branch
+  59 git branch dev
+  60 git branch
+  61 git checkout dev
+  62 git branch
+  63 git status
+  64 git add .
+  65 git commit -m "added some lines of code in siginup.html file"
+  66 git push origin dev
+  67 git branch prod
+  68 git branch
+  69 git checkout prod
+  70 git branch
+  71 git status
+  72 git add .
+  73 git commit -m "added sign-login form file"
+  74 git push origin prod
+  75 git checkout main
+  76 git branch
+  77 git merge prod
+  78 git push origin main
+  79 git pull
+  80 git push origin main
+  81 git branch
+  82 git branch -d dev
+  83 git branch
+  84 git remote -v
+  85 git remote remove origin
+  86 git remote -v
+  87 git remote add origin https://github.com/Msocial123/DevOps-Training-Dec-25.git
+  88 git remote -v
+  89 git remote remove origin
+  90 git remote -v
+  91 git remote add origin https://github.com/Msocial123/DevOps-Training-Dec-25.git
+  92 git remote -v

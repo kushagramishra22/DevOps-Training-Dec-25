@@ -1,0 +1,53 @@
+	Ø It is a mindset and a way of working where dev and ops teams work together instead of working separately.
+	Ø It focuses on collaboration, automation and continuous improvement to deliver software faster, more reliable and with high quality.
+
+
+Principles of DevOps
+=================
+	1. Collaboration & Communication :- dev & ops teams break silos , everyone has to share responsibility for the app, frequent discussions instead of blame-game.
+	2. Automation:- automate everything --> Build, test, deployment, monitoring and infrastructure (iac), automation reduces errors and speeds up delivery
+	3. Continuous everything :
+ =======================
+
+	Ø Continuous integration(CI):- developers merge code frequently 
+	Ø Continuous deploy and deliver (CD):- deploy automatically to env
+	Ø Continuous monitoring:- monitor app logs, metrics and alerts .
+
+	4. Ownership & Accountability:- developers also think about "how will it run in production 
+	5. Customer-centric mindset:- deliver features quickly, improve based on feedback, focus in on user experience but not internal departments.
+	6. Fail fast, learn fast:- small experiments, accept failures and learn quickly and improve
+	7. Data-driven decisions:- using metrics to improve --> deployment frequency, lead time, meant time to recovery and production failure 
+
+=============================================================================
+
+ flipakrt app new v is 3.2
+
+3.1
+
+Version control systems (VCS)
+=========================
+
+	Ø It us used to track changes in code
+	Ø It remembers every change you make 
+	Ø You can go back to any previous version 
+	Ø Many people can work on the same project without conflicts 
+
+Git commands
+============
+
+	1. Git status
+	2. Git add
+	3. Git commit
+	4. Git push
+	5. Git reset
+	6. Git revert
+	7. Git remote add origin
+	8. Git remote -v
+	9. Git branch
+	10. Git pull
+	11. Git branch
+	12. Git remote remove origin
+	13. Git clone 
+	14. Git fork
+
+https://github.com/Msocial123/DevOps-Training-Dec-25/pull/1
